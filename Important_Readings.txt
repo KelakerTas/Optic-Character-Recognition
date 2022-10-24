@@ -1,7 +1,0 @@
-important Reading links : 
-
-https://distill.pub/2017/ctc/
-
-https://www.cs.toronto.edu/~graves/icml_2006.pdf
-
-https://medium.com/swlh/multi-digit-sequence-recognition-with-crnn-and-ctc-loss-using-pytorch-framework-269a7aca2a6
